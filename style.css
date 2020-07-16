@@ -1,0 +1,47 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+
+.navbar-header{
+    height: 75px;
+}
+.alok{
+    border: 1px solid black;
+    margin: 10px;
+    background-color: rgb(175, 164, 164);
+    
+}
+h3{
+    text-align: center;
+}
+.header{
+    text-align: center;
+}
+.navbar-brand{
+    padding: 14px 58px;
+    line-height: 44px;
+    color: white;
+    font-size: 40px;
+
+}
+.navbar-brand a{
+    color: black;
+    
+}
+ul li{
+    margin: 20px;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    display: inline;
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+
